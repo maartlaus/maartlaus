@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maartlaus
+- 👋 Hi, I’m @Mr.DOT Producions
 - 👀 I’m interested in game audio programming, c++ JUCE environment, Unity, Unreal Engine
 - 🌱 I’m currently learning C++ in JUCE environment, Unreal Engine, Unity
 - 💞️ I’m looking to collaborate on video games, audio software
